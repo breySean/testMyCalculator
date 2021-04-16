@@ -10,5 +10,8 @@ package za.ac.cput;
  * @author Breyton Ernstzen
  */
 public class Calculator {
-    
+    public int sum(int a,int b){
+        return a+b;
+        
+    }
 }
