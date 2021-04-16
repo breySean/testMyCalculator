@@ -10,8 +10,14 @@ package za.ac.cput;
  * @author Breyton Ernstzen
  */
 public class Calculator {
+
     //Team member contribution
     public double division(double a,double b){
         return a/b;
+      
+    public int sum(int a,int b){
+        return a+b;
+        
+
     }
 }
